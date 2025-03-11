@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec91c21-ab5b-4ec0-b546-854e43608d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClothingStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Garment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/TShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/command/CutSleeveCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/command/OrderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/command/SewNeckCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/observer/CEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/observer/OrderSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/OrderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Receipt.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ec91c21-ab5b-4ec0-b546-854e43608d83" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +89,42 @@
       <option name="presentableId" value="Default" />
       <updated>1741684309399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1741729186404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729186404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1741729348131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729348131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1741729370872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729370872</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1741729404747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729404747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1741729435770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729435770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,5 +137,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
